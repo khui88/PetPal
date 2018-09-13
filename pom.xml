@@ -89,21 +89,19 @@
 		<!-- OJDBC 7 LOCAL REPO -->
 		<dependency>
 			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc7</artifactId>
-			<version>11.2.0</version>
+			<artifactId>ojdbc8</artifactId>
+			<version>12.2.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aspects</artifactId>
-			<version>4.3.4.RELEASE</version>
-		</dependency>
+			</dependency>
 
 		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
 		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
