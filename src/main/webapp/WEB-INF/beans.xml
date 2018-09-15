@@ -56,7 +56,7 @@
 					previous data. create-drop: drop the schema when the SessionFactory is closed 
 					explicitly, typically when the application is stopped. -->
 				
-				<prop key="hibernate.hbm2ddl.auto">create</prop>
+				<prop key="hibernate.hbm2ddl.auto">update</prop>
 				<!-- <prop key="hibernate.hbm2ddl.auto">create</prop> -->
 			
 			</props>
